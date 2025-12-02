@@ -1,4 +1,3 @@
-print("Hello you?)
 movie = input("What's your favourite movie? ")
 print("The movie name is", movie)
 times_watched = input("How many times did you watch that movie? ")
